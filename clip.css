@@ -1,0 +1,62 @@
+body{
+    background-color: lightgray;
+}
+.container{
+    background-color: white;
+    height: 1150px;
+    width: 630px;
+    text-align: justify;
+    margin-left: 350px;
+}
+ body #one img{ display: flex;
+    height: 150px;
+    width: 590px;
+
+}
+ 
+ .two img{ 
+    height: 40px;
+    width: 30px;
+    margin-left: 250px;
+}
+h3{
+    margin-left: 90px;
+}
+p{
+    font-size: small;
+    color: lightgray;
+    line-height: 3px;
+    margin-left: 50px;
+}
+button{
+    background-color: rgb(35, 214, 35);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    margin-left: 76px;
+    margin-bottom: 62px;
+}
+ a button{
+    background-color: blue;
+    color: white;
+    margin-bottom: 62px;
+ }
+ h4{
+    margin-left: 79px;
+ }
+ .three ,img{ display: flex;
+    height: 250px;
+    width: 240px;
+    margin-right: 50px;
+ }
+ .u{
+    display: flex;
+ }
+h2{
+    margin-left: 79px;
+}
+.five ,img{
+    height: 250px;
+    width: 260px;
+    margin-left: 39px;
+}
